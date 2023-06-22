@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {
+            "New\\" : "src/",
+            "New\\Core\\" : "core/"
+        }
+    }
+}
